@@ -1,18 +1,18 @@
 # 🎓 EduReach: AI-Powered College Chatbot
 
-**EduReach** is a full-stack educational platform and intelligent communication bridge for students and college administrations. Built with the MERN stack and integrated with advanced AI, it provides instant, accurate responses to campus-related inquiries, course details, and administrative FAQs.
+**EduReach** is a full-stack educational platform designed to provide students with a centralized hub for college information. By integrating a custom AI chatbot, it ensures that queries regarding campus life, courses, and administration are answered instantly and accurately.
 
 ### 🔗 [Live Demo](https://edu-reach-college-chat-bot-flax.vercel.app/)
 
 ---
 
-## 🚀 Key Features
+## 🚀 Features
 
-* **Intelligent Conversational Agent:** Leverages **LangChain** and **Vapi** to provide human-like, context-aware responses to student queries.
-* **Real-time Interaction:** Fast, low-latency chat interface for immediate support.
-* **Robust Backend:** Scalable Node.js/Express server handling data retrieval and user management.
-* **Responsive UI:** A modern, mobile-friendly interface designed with **Figma** and built using **Tailwind CSS**.
-* **Workflow Automation:** Integrated with **n8n** to automate backend processes and data updates.
+* **AI Conversational Interface:** Powered by **LangChain** and **Vapi** to handle natural language queries about college data.
+* **MERN Stack Foundation:** Built with a high-performance MongoDB, Express, React, and Node.js architecture.
+* **Type-Safe Frontend:** Developed using **TypeScript** and **Vite** for a fast and reliable user experience.
+* **Modern Design:** UI styled with **Tailwind CSS**, based on professional **Figma** wireframes.
+* **Real-time Responses:** Optimized for low-latency communication between the user and the AI model.
 
 ---
 
@@ -23,15 +23,12 @@
 | **Frontend** | React.js, TypeScript, Tailwind CSS, Vite |
 | **Backend** | Node.js, Express.js |
 | **Database** | MongoDB |
-| **AI Integration** | LangChain, Vapi, AI-driven automation |
-| **Tooling** | n8n, Git, GitHub |
-| **Deployment** | Vercel (Frontend), Render (Backend) |
+| **AI Services** | LangChain, Vapi |
+| **Deployment** | Vercel (Frontend) |
 
 ---
 
-## 📦 Local Installation & Setup
-
-Follow these steps to get a local copy up and running:
+## 📦 Project Setup
 
 ### 1. Clone the repository
 ```bash
